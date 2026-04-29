@@ -1,0 +1,9 @@
+{
+  "version": "EP_2026_v1",
+  "date": "2026-05-01",
+  "low": "Probabilità/rischio basso: valutare D-dimero, stabilità clinica e percorso diagnostico secondo protocollo locale.",
+  "intermediate": "Probabilità/rischio intermedio: integrare imaging, biomarcatori, funzione ventricolare destra e quadro clinico.",
+  "high": "Probabilità/rischio alto: gestione urgente secondo protocollo ospedaliero, valutando imaging, stabilità emodinamica e terapia.",
+  "sources": "ESC 2019 Pulmonary Embolism; Wells score; Revised Geneva score; PESI; sPESI",
+  "disclaimer": "Supporto decisionale. Non sostituisce giudizio medico, protocolli locali o diagnostica di laboratorio."
+}

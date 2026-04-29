@@ -1,0 +1,9 @@
+{
+  "version": "HIT_4Ts_2026_v1",
+  "date": "2026-05-01",
+  "low": "Score 0–3: probabilità bassa di HIT. HIT generalmente improbabile; valutare cause alternative secondo giudizio clinico e protocollo locale.",
+  "intermediate": "Score 4–5: probabilità intermedia di HIT. Considerare sospensione dell’eparina, test anti-PF4/eparina e gestione secondo protocollo locale.",
+  "high": "Score 6–8: probabilità alta di HIT. Sospendere eparina e considerare anticoagulante non eparinico secondo protocollo locale.",
+  "sources": "ASH 2018 HIT guidelines; BSH HIT guideline 2024",
+  "disclaimer": "Supporto decisionale. Non sostituisce giudizio medico, protocolli locali o diagnostica di laboratorio."
+}
