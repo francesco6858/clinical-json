@@ -1,0 +1,16 @@
+{
+  "version": "EP_2026_v1",
+  "date": "2026-05-01",
+  "sources": [
+    "ESC 2019 Pulmonary Embolism",
+    "Wells score",
+    "Revised Geneva score",
+    "PESI / sPESI"
+  ],
+  "recommendations": {
+    "low": "Probabilità bassa: valutare D-dimero e gestione ambulatoriale se stabile",
+    "intermediate": "Probabilità intermedia: integrare imaging e biomarcatori",
+    "high": "Probabilità alta: gestione urgente ospedaliera"
+  },
+  "disclaimer": "Supporto decisionale"
+}
